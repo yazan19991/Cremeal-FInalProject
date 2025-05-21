@@ -101,6 +101,7 @@ The application operates on a Freemium model, where users must pay after a certa
   - Tailwind  
   - React Native Reanimated  
   - Animations
+  - stripe
 
 ### Website
 *(Managed by Hassan Jbara)*  
